@@ -168,4 +168,4 @@ $ ls ./business
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2e&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d4af37&height=120&section=footer" width="100%" />
