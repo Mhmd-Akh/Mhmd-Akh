@@ -25,7 +25,7 @@ const mohammad = {
   student: "Computer Science & Software Engineering — Payame Noor University",
   roles: [
     "Developer",
-    "Founder @ Pimox — network services & VPN",
+    "Founder @ Pimox — network services",
     "Owner @ Babak Optic — optical retail, Shiraz",
   ],
   stack: ["JavaScript", "TypeScript", "Node.js", "Express", "React", "MongoDB"],
@@ -41,7 +41,7 @@ console.log(`Hello, world — I'm ${mohammad.name.split(" ")[0]}.`);
 
 ### I learn by shipping. Most of what I know comes from software people actually use.
 
-I run two businesses in Shiraz — **Pimox** (independent network services & VPN) and an
+I run two businesses in Shiraz — **Pimox** (independent network services) and an
 independent optical store — while studying Computer Science. My main project,
 **OpticLedger**, grew out of my own shop counter: offline-first accounting & inventory
 for optical retail, with a real Express + MongoDB backend, not a toy CRUD app.
@@ -125,11 +125,11 @@ $ whoami
 > developer in Shiraz — building between the shop counter and the server
 
 $ ls ./business
-> Pimox/          independent network services & VPN — WireGuard / WGDashboard
+> Pimox/          independent network services — WireGuard / WGDashboard
 > Babak-Optic/    optical retail — frames, lenses, supplier billing
 ```
 
-- **Pimox** — my own network/VPN business: subscriptions, setup, support, renewals.
+- **Pimox** — my own network services business: subscriptions, setup, support, renewals.
 - **Babak Optic** — my own optical store; the reason OpticLedger exists at all.
 
 ---
