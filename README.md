@@ -79,9 +79,6 @@ for optical retail, with a real Express + MongoDB backend, not a toy CRUD app.
 
 ## 🚀 Featured Projects
 
-> Order is deliberate: the business software first, the Discord/Harmony work last.
-> 🔒 = private repository — no link on purpose. Public repos link to the real repo.
-
 | # | Project | What it is | Stack |
 |---|---------|------------|-------|
 | 1 | **OpticLedger** 🔒 | Offline-first accounting & inventory for optical shops. Frames & lenses tracked by supplier, live balance owed to my father's shop, passwordless email-OTP sign-in with roles, two Telegram bots (security alerts + financial reports), Jalali-date Excel export & invoices, bidirectional offline sync. | TypeScript · Express · MongoDB · React 19 · Telegram Bots |
