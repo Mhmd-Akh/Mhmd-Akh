@@ -108,9 +108,6 @@ for optical retail, with a real Express + MongoDB backend, not a toy CRUD app.
 
 ## 📊 GitHub Stats
 
-> These cards are **live embeds** — they render automatically once this README is published,
-> and they only ever show *public* activity. No numbers are typed in by hand here.
-
 <div align="center">
 
 ![Mohammad's GitHub stats](https://github-stats-extended.vercel.app/api?username=Mhmd-Akh&show_icons=true&theme=transparent&bg_color=0d1b2e&title_color=d4af37&text_color=e6e6e6&icon_color=d4af37&border_color=1e3a5f&hide_border=false)
