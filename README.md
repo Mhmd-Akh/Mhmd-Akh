@@ -14,7 +14,7 @@
 
 <!-- Optional typing line (third-party service readme-typing-svg).
      Delete these 3 lines if you don't want an external dependency. -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=I+build+software+people+actually+use.;Business+software+%E2%80%A2+Network+services+%E2%80%A2+Optical+retail;Real+tools+for+real+shops+and+servers." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=I+build+software+people+actually+use.;Web+development+%E2%80%A2+App+development+%E2%80%A2+Business+software;Network+services+%E2%80%A2+Optical+retail;Real+tools+for+real+shops+and+servers." alt="Typing animation" />
 
 </div>
 
