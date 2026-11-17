@@ -31,7 +31,7 @@ const mohammad = {
   stack: ["JavaScript", "TypeScript", "Node.js", "Express", "React", "MongoDB"],
   also: ["Python", "Electron", "discord.js", "Telegram Bots", "FFmpeg"],
   builds: "real tools for real shops, servers & communities — not demos",
-  openTo: ["freelance projects", "collaboration", "Discord bots", "business software"],
+  openTo: ["freelance projects", "collaboration", "scripting", "business software"],
 };
 
 console.log(`Hello, world — I'm ${mohammad.name.split(" ")[0]}.`);
@@ -87,7 +87,7 @@ for optical retail, with a real Express + MongoDB backend, not a toy CRUD app.
 | 4 | **Map-Tracker** 🔒 | Find locations and export them to Excel — a Telegram bot plus an interactive web map. | node-telegram-bot-api · React 19 · Leaflet · ExcelJS |
 | 5 | **AR Virtual Try-On** — Telegram Mini-App | Try on eyewear virtually from your phone. Face tracking + 3D frames. | MediaPipe Face Mesh · Three.js · Telegram Mini Apps |
 | 6 | **Harmony** 🔒 | Discord bot for a real community server — voice, music, scheduled tasks, Jalali calendar. | discord.js 14 · @discordjs/voice · MongoDB · Mongoose |
-| 7 | [**radio-harmony**](https://github.com/Mhmd-Akh/radio-harmony) ⭐ 5 | Open-source library that streams Spotify, SoundCloud, YouTube & MP3 links into a Discord voice channel. Born from Harmony. | JavaScript · Node.js · discord.js |
+| 7 | [**radio-harmony**](https://github.com/Mhmd-Akh/radio-harmony) ⭐ 5 | Open-source library that streams Spotify, SoundCloud, YouTube & MP3 links into a Discord voice channel. | JavaScript · Node.js · discord.js |
 | 8 | [**FiveM-Harmony**](https://github.com/Mhmd-Akh/FiveM-Harmony) | TypeScript library for FiveM server status & API data. | TypeScript · Axios |
 
 <details>
