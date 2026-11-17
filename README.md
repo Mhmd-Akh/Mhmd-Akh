@@ -131,11 +131,11 @@ $ whoami
 > developer in Shiraz — building between the shop counter and the server
 
 $ ls ./business
-> Pimox/          independent network services — WireGuard / WGDashboard
+> Pimox/          independent network services
 > Babak-Optic/    optical retail — frames, lenses, supplier billing
 ```
 
-- **Pimox** — my own network services business: subscriptions, setup, support, renewals.
+- **Pimox** — my own network services business: setup & support.
 - **Babak Optic** — my own optical store; the reason OpticLedger exists at all.
 
 ---
